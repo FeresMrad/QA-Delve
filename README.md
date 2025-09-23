@@ -166,11 +166,8 @@ ISTQB emphasizes structured best practices, while Agile Testing focuses on fast,
 
 - **Non-Regression Testing**: Confirms that areas of the system that haven’t changed remain unaffected by updates or fixes.  
   *Example:* After modifying the login feature, verifying that unrelated modules like user profiles or search functionality are still working as expected.
-
-## Sources
-The following resources guided the definitions and principles outlined in this repository:
-- [QA Roadmap – roadmap.sh](https://roadmap.sh/qa)  
-- [ISTQB Certified Tester Foundation Level Syllabus (Version 4.0.1)](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf)
+  
+---
 
 ## 4. Environments
 
@@ -180,6 +177,14 @@ Environments are controlled spaces where software is deployed and tested at diff
 - **Testing / QA:** Dedicated space for systematic testing by QA teams. More stable, focuses on functional and non-functional testing.  
 - **Staging:** Production-like environment for final testing. Nearly identical to production setup, used for final validation.  
 - **Production (prod):** Live environment with real users. Limited testing is performed, mostly monitoring and smoke tests.  
+
+---
+
+## Sources
+The following resources guided the definitions and informations outlined in this repository:
+- [QA Roadmap – roadmap.sh](https://roadmap.sh/qa)  
+- [ISTQB Certified Tester Foundation Level Syllabus (Version 4.0.1)](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf)
+- [PamDH Portfolio – GitHub](https://github.com/PamDH/Portfolio)  
 
 
 *Next steps:* 
