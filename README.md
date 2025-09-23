@@ -172,7 +172,16 @@ The following resources guided the definitions and principles outlined in this r
 - [QA Roadmap – roadmap.sh](https://roadmap.sh/qa)  
 - [ISTQB Certified Tester Foundation Level Syllabus (Version 4.0.1)](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf)
 
+## 4. Environments
+
+Environments are controlled spaces where software is deployed and tested at different stages of development.  
+
+- **Development (dev):** Where developers write and test code locally. Frequently changing and may be unstable.  
+- **Testing / QA:** Dedicated space for systematic testing by QA teams. More stable, focuses on functional and non-functional testing.  
+- **Staging:** Production-like environment for final testing. Nearly identical to production setup, used for final validation.  
+- **Production (prod):** Live environment with real users. Limited testing is performed, mostly monitoring and smoke tests.  
+
+
 *Next steps:* 
--Add environments section.
--Add small QA projects and practical examples to familiarize myself with the concepts.
--Further additions (TBD)
+- Add small QA projects and practical examples to familiarize myself with the concepts.
+- Further additions (TBD)
