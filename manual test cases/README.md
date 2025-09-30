@@ -1,0 +1,1 @@
+This folder contains **screenshots of manual test cases** created using [Qase.io](https://qase.io/).  
