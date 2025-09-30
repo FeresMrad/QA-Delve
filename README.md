@@ -184,7 +184,7 @@ Environments are controlled spaces where software is deployed and tested at diff
 The following resources guided the definitions and informations outlined in this repository:
 - [QA Roadmap – roadmap.sh](https://roadmap.sh/qa)  
 - [ISTQB Certified Tester Foundation Level Syllabus (Version 4.0.1)](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf)
-- [PamDH Portfolio – GitHub](https://github.com/PamDH/Portfolio)  
+- [Todo app – GitHub](https://github.com/FeresMrad/todo-app) (application used for tests) 
 
 
 *Next steps:* 
