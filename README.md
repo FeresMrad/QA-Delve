@@ -188,5 +188,5 @@ The following resources guided the definitions and informations outlined in this
 
 
 *Next steps:* 
-- Add small QA projects and practical examples to familiarize myself with the concepts.
+- Add automated tests.
 - Further additions (TBD)
